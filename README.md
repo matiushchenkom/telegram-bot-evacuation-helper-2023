@@ -1,4 +1,4 @@
-# Travel Companion & Evacuation Helper Bot
+Evacuation Helper Telegram Bot
 
 ## 📌 Overview
 This project is a Telegram bot developed to assist people in Ukraine with travel logistics and emergency evacuation coordination. It allows users to find travel companions or offer rides, and provides a critical pathway for requesting urgent evacuation from frontline territories.
