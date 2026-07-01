@@ -1,11 +1,11 @@
-Evacuation Helper Telegram Bot
+## Evacuation Helper Telegram Bot
 
-## 📌 Overview
+## Overview
 This project is a Telegram bot developed to assist people in Ukraine with travel logistics and emergency evacuation coordination. It allows users to find travel companions or offer rides, and provides a critical pathway for requesting urgent evacuation from frontline territories.
 
 *Note: This project was originally developed as a university project*
 
-## 🚀 Features
+## Features
 - **Passenger/Driver Matching**: Streamlined forms for searching or offering seats in a car.
 - **Emergency Evacuation Requests**: A specialized flow for collecting vital information (names, ages, medical needs) to assist volunteer organizations.
 - **Automated Channel Posting**: Successfully finalized posts are automatically forwarded to a dedicated Telegram channel.
